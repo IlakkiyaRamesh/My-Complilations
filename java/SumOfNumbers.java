@@ -5,8 +5,6 @@ public class SumOfNumbers{
         Scanner scan= new Scanner(System.in);
         System.out.print("Enter number:");
         int n=scan.nextInt();
-
-        sum of numbers
         for(i=1;i<=n;i++){
             sum+=i;            
         }System.out.println(sum);
